@@ -1,0 +1,17 @@
+.Todo{
+display: grid;
+
+grid-template-areas: 
+    'ob1 ob2'
+    'ob3 ob4'
+;}
+
+
+
+.informacion{
+    display: grid;
+
+    grid-template-areas: 
+    ' inf1'
+    'inf2';
+}
