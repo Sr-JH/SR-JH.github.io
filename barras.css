@@ -1,0 +1,210 @@
+
+@media screen and (max-width: 600px) {
+    
+
+    
+
+
+    
+
+.barras{
+
+border: 1px solid;
+background-color: rgb(140, 143, 141);
+height: 27px;
+border-radius: 16px;
+overflow: hidden;
+margin-bottom: 10%;
+}
+
+.barra1{
+
+height: 100%;
+width: 97%;
+background-color: rgb(230, 130, 37);
+text-align: center;
+color: rgb(243, 233, 233);
+text-shadow: 2px 2px 3px black;
+padding-top: 1%;
+}
+
+
+.bar1{border: 1px solid;
+    background-color: rgb(140, 143, 141);
+    height: 27px;
+    border-radius: 16px;
+    overflow: hidden;margin-bottom: 10%}
+
+    .bar2{ height: 100%;
+        width: 100%;
+        background-color: rgb(39, 163, 212);
+        text-align: center;
+        color: rgb(243, 233, 233);
+        text-shadow: 2px 2px 3px black;
+    padding-top: 1%;    
+    }
+
+        .bar3{
+            border: 1px solid;
+    background-color: rgb(140, 143, 141);
+    height: 27px;
+    border-radius: 16px;
+    overflow: hidden; margin-bottom: 10%;
+        }
+
+        .bar4{height: 100%;
+            width: 30%;
+            background-color: rgb(240, 232, 123);
+            text-align: end;
+            color: rgb(243, 233, 233);
+            text-shadow: 2px 2px 3px black;
+        padding-top: 1%;}
+
+
+            .bar5{
+                border: 1px solid;
+    background-color: rgb(140, 143, 141);
+    height: 27px;
+    border-radius: 16px;
+    overflow: hidden ; margin-bottom: 20%;
+            }
+            .bar6{ height: 100%;
+                width: 40%;
+                background-color: rgb(247, 182, 121);
+                text-align: center;
+                color: rgb(243, 233, 233);
+                text-shadow: 2px 2px 3px black;
+            padding-top: 1%;}
+ }
+ 
+ /*hasta 1000*/
+ @media screen and (min-width: 601px)  {
+    
+    h1{
+        font-size: 30px;
+    }
+    /*HTMl*/
+    .barras{
+
+        border: 1px solid;
+        background-color: rgb(140, 143, 141);
+        height: 40px;
+        border-radius: 16px;
+        overflow: hidden; 
+        width: 97%;
+    margin-top: 5%;      
+    font-size: 30px; 
+    padding-bottom: 12px;
+    
+    }
+        
+        .barra1{
+        
+        height: 200%;
+        width: 97%;
+        background-color: rgb(230, 130, 37);
+        text-align: center;
+        color: rgb(243, 233, 233);
+        text-shadow: 2px 2px 3px black;
+        padding-top: 1%;
+        
+    }
+
+
+
+
+        /*HTML*/
+
+/*CSS*/
+        .bar1{border: 1px solid;
+            background-color: rgb(140, 143, 141);
+            height: 40px;
+            border-radius: 16px;
+            overflow: hidden;;
+            width: 100%;
+            margin-top: 1%;
+            font-size: 30px;
+            padding-bottom: 12px;
+margin-bottom: 0;
+             
+        }
+        
+            .bar2{ height: 200%;
+                width: 100%;
+                background-color: rgb(39, 163, 212);
+                text-align: center;
+                color: rgb(243, 233, 233);
+                text-shadow: 2px 2px 3px black;
+            padding-top: 1%;    
+            }
+           
+/*CSS*/
+/*JS*/
+            .bar3{
+                border: 1px solid;
+        background-color: rgb(140, 143, 141);
+        height: 40px;
+        border-radius: 16px;
+        overflow: hidden; 
+        width: 27%;  
+        margin-top: 1%;
+                   
+    }
+    
+            .bar4{height: 100%;
+                width: 27%;
+                background-color: rgb(240, 232, 123);
+                text-align: end;
+                color: rgb(243, 233, 233);
+                text-shadow: 2px 2px 3px black;
+            padding-top: 1%;
+        width: 30%;
+ }
+/*JS*/    
+/*pawn*/
+.bar5{
+    border: 1px solid;
+background-color: rgb(140, 143, 141);
+height: 40px;
+border-radius: 16px;
+overflow: hidden ; 
+width: 30%;
+margin-top: 1%;
+margin-bottom: 2%;
+}
+.bar6{ height: 100%;
+    width: 30%;
+    background-color: rgb(247, 182, 121);
+    text-align: center;
+    color: rgb(243, 233, 233);
+    text-shadow: 2px 2px 3px black;
+padding-top: 1%;}
+
+/*pawn*/
+
+/*img*/
+
+#x{
+    height: 80px;
+    
+}
+#tel{
+    height: 80px;
+    width: 80px;
+}
+#git{
+    height: 80px;
+}
+#corr{
+    height: 80px;
+    width: 80%;
+}
+
+/*img*/
+}
+
+
+ /* @media screen and(min-width:) */
+
+
+
