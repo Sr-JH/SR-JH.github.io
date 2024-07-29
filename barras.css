@@ -1,0 +1,79 @@
+
+
+
+    
+
+.barras{
+
+border: 1px solid;
+background-color: rgb(140, 143, 141);
+height: 27px;
+border-radius: 16px;
+overflow: hidden;
+margin-bottom: 10%;
+}
+
+.barra1{
+
+height: 100%;
+width: 97%;
+background-color: rgb(230, 130, 37);
+text-align: center;
+color: rgb(243, 233, 233);
+text-shadow: 2px 2px 3px black;
+padding-top: 1%;
+}
+
+
+.bar1{border: 1px solid;
+    background-color: rgb(140, 143, 141);
+    height: 27px;
+    border-radius: 16px;
+    overflow: hidden;margin-bottom: 10%}
+
+    .bar2{height: 100%;
+        width: 100%;
+        background-color: rgb(39, 163, 212);
+        text-align: center;
+        color: rgb(243, 233, 233);
+        text-shadow: 2px 2px 3px black;
+    padding-top: 1%;    
+    }
+
+        .bar3{
+            border: 1px solid;
+    background-color: rgb(140, 143, 141);
+    height: 27px;
+    border-radius: 16px;
+    overflow: hidden; margin-bottom: 10%;
+        }
+
+        .bar4{height: 100%;
+            width: 30%;
+            background-color: rgb(240, 232, 123);
+            text-align: end;
+            color: rgb(243, 233, 233);
+            text-shadow: 2px 2px 3px black;
+        padding-top: 1%;}
+
+
+            .bar5{
+                border: 1px solid;
+    background-color: rgb(140, 143, 141);
+    height: 27px;
+    border-radius: 16px;
+    overflow: hidden ; margin-bottom: 20%;
+            }
+            .bar6{ height: 100%;
+                width: 40%;
+                background-color: rgb(247, 182, 121);
+                text-align: center;
+                color: rgb(243, 233, 233);
+                text-shadow: 2px 2px 3px black;
+            padding-top: 1%;}
+        
+
+
+
+            
+            
